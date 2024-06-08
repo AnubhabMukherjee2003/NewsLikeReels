@@ -7,6 +7,6 @@ in c:/xampp/htdocs directory
 
 run this code
 
-git -clone 
+git -clone https://github.com/AnubhabMukherjee2003/NewsLikeReels
 
 and see result in localhost/news
